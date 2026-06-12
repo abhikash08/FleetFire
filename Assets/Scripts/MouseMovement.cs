@@ -8,8 +8,8 @@ public class MouseMovement : MonoBehaviour
     float xRotation = 0f;
     
     public Transform playerBody;
-    public float TopClamp = -60f;
-    public float BottomClamp = 60f;
+    public float TopClamp = -75f;
+    public float BottomClamp = 75f;
     // Start is called before the first frame update
     void Start()
     {
